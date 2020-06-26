@@ -1,0 +1,2 @@
+# nyt-search
+class activity
